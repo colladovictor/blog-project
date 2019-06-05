@@ -44,7 +44,10 @@ h2 {
 }
 
 .container {
-    width: 1140px;
+    /*width: 1140px;*/
+    width: 50%;
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
     margin: 20px auto 0 auto;
 }
 
